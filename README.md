@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@skymasdev" target="blank"><img src="https://img.shields.io/twitter/follow/@skymasdev?logo=twitter&style=for-the-badge" alt="@skymasdev" /></a> </p>
 
-- 💬 Ask me about **html, css and javascripy**
+- 💬 Ask me about **html, css and javascript**
 
 - 📫 How to reach me **officialskymas@gmail.com**
 
